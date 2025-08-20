@@ -46,7 +46,7 @@ export default function BudgetModal({ isOpen, onClose }: BudgetModalProps) {
                 <div>
                   <h4 className="font-medium mb-2">Adjust figures and forecast with ease</h4>
                   <p className="text-sm text-gray-500">
-                    Edit amounts, apply percentage changes, or roll forward last year's data—all in one place.
+                    Edit amounts, apply percentage changes, or roll forward last year&apos;s data—all in one place.
                   </p>
                 </div>
               </div>
